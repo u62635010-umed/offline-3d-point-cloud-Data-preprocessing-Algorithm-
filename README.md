@@ -37,7 +37,7 @@ processed_points.csv
 ## 🎯 Use Case
 - Drone mapping
 - Terrain inspection
-- 3D point cloud processing
+- 3D point cloud postporcessing
 - LiDAR data preprocessing
 - GIS / Geospatial projects
 
