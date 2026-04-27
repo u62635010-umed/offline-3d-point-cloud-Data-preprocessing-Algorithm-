@@ -1,4 +1,4 @@
-# Offline 3D Point Cloud Data Preprocessing Algorithm
+# Offline 3D Point Cloud Data Post-Preprocessing Algorithm
 
 ## 📌 Project Description
 This project focuses on preprocessing raw drone mapping data to generate clean and usable 3D point-cloud data for terrain inspection and analysis.
